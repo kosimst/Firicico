@@ -69,3 +69,8 @@ Here is my example config:
     ]
   }
 ```
+
+### Screenshot
+Here is a sample using the Monokai theme in VSCode:
+
+<img src="./code.png">
