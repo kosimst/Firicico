@@ -1,18 +1,21 @@
-# Firicio
+# Firicico
+
 ## Combination of Fira Code and Pacifico for Italics.
 
 This is the font set-up I use for programming. It uses Fira Code as default font and Pacifico for the italics. Thanks to Fira Code it also has font ligatures.
 
 ### What is it?
+
 As just said, its a combination of two fonts. The Pacifico font-size is additionally slightly increased (115%).
 
 ### Setup
 
-Just download/clone the this repo and install the Firicio & Firicio Italic. In the Source fonts-folder you can additionally find the unedited source fonts, if you want to install them too.
+Just download/clone the this repo and install the Firicico & Firicico Italic. In the Source fonts-folder you can additionally find the unedited source fonts, if you want to install them too.
 
-Now go to your editor/IDE and change the font to Firicio and enable Font ligatures, if you want them. That's it.
+Now go to your editor/IDE and change the font to Firicico and enable Font ligatures, if you want them. That's it.
 
 ### Customization
+
 The easiest way to customize the fonts (e.g. resize one of them) is with FontForge. Just open the .ttf files, edit them and export them back as ttf. You only have to make sure, that you don't edit any Metadata, as the font wont work otherwise.
 
 ### What are italics?
@@ -71,6 +74,7 @@ Here is my example config:
 ```
 
 ### Screenshot
+
 Here is a sample using the Monokai theme in VSCode:
 
 <img src="./code.png">
