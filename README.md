@@ -21,7 +21,7 @@ Many editors/IDEs (like VSCode) take the italic font style of the selected font 
 
 > Note: As I only use VSCode, I can't provide details for other editors/IDEs
 
-In VSCode expressions, that are styled in italics are controlled by your theme, but you can change and customize this in the settings unde "editor.tokenColorCustomizations".
+In VSCode expressions, that are styled in italics are controlled by your theme, but you can change and customize this in the settings under "editor.tokenColorCustomizations".
 
 Here is my example config:
 
