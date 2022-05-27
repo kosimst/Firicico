@@ -25,7 +25,7 @@ In VSCode expressions, that are styled in italics are controlled by your theme, 
 
 Here is my example config:
 
-```json
+```jsonc
 "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
